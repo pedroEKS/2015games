@@ -4,7 +4,7 @@ Welcome to this repository! It serves as a time capsule, holding some of the fir
 
 ### The Origin Story
 
-These games were created in 2015 when I was just 12 years old. They are the practical result of what I learned in the Danki Code game development course, which was my first deep dive into programming and the logic needed to create something interactive.
+These games were created in 2015 when I was just 11 years old. They are the practical result of what I learned in the Danki Code game development course, which was my first deep dive into programming and the logic needed to create something interactive.
 
 The main goal at the time was simply to learn and put the concepts I was taught into practice.
 
