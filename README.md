@@ -1,4 +1,4 @@
-# 🕹️ Java Games from 2015
+#  Java Games from 2015 🕹️
 
 Welcome to this repository! It serves as a time capsule, holding some of the first game projects I ever developed in Java.
 
