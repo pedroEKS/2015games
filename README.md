@@ -1,22 +1,14 @@
-#  Java Games from 2015 🕹️
+# Java Games from 2015 🕹️
 
-Welcome to this repository! It serves as a time capsule, holding some of the first game projects I ever developed in Java.
-
-### The Origin Story
-
-These games were created in 2015 when I was just 11 years old. They are the practical result of what I learned in the Danki Code game development course, which was my first deep dive into programming and the logic needed to create something interactive.
-
-The main goal at the time was simply to learn and put the concepts I was taught into practice.
+This repository serves as a **time capsule** for some of my earliest Java game projects, developed in 2015. The goal was simple: to put basic programming concepts into practice while learning about logic and interactive development.
 
 ### The Projects
 
-Inside this repository, you will find:
+You'll find the following games here:
 
-* **Mario:** A simple recreation inspired by the universe of the classic.
+* **Mario:** A simple recreation inspired by the classic universe.
 * **Minecraft_fake:** A basic 2D version inspired by Minecraft's building mechanics.
 
-### ⚠️ A Friendly Warning
+### ⚠️ Note on Development
 
-As these projects were developed by a beginner many years ago, the code does not reflect modern-day software development best practices. The main value of this repository is historical and sentimental, marking the beginning of a journey into the world of technology.
-
-Thanks for visiting!
+The code in this repository does **not reflect modern software development best practices**, as it was written by a beginner many years ago. Its main value is historical and sentimental, marking the start of my journey into the world of programming.
